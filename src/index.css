@@ -1,0 +1,44 @@
+.bodyy{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.Container{
+  align-items: center;
+  justify-content: center;
+  width: 50rem;
+  height: 50rem;
+  border: 2px solid black;
+  border-radius: 20px;
+  display: flex;
+}
+
+.color-name{
+  align-items: center;
+  justify-content: center;
+  margin: 10px;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.title{
+  align-items: center;
+  justify-content: center;
+  margin: 10px;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.buttons{
+  text-align: center;
+}
+button {
+  font-size: 1.5rem;
+  background-color: white;
+  border: 2px solid black;
+  border-radius: 5px;
+  padding: 5px 15px;
+  margin: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+}
